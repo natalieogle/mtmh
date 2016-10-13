@@ -1,0 +1,69 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+              <div class="post-title {% if page.feature %} feature {% endif %}">
+                 <a href="{{ site.url }}">
+                     <img src="../{{ site.logo }}">
+                 </a>
+                 <hr class="hr-line">
+                 <h3 class="title">
+                        <a class="btn zoombtn" href="{{ site.url }}">
+                        Home
+                        </a>
+                        <a class="btn zoombtn" href="{{ site.url }}/about">
+                        About
+                        </a>
+                 </h3>
+              </div>
+              <h1>Posts</h1>
+              <p>
+                Sorry, guys. No posts just yet! I've been spending my time moving in, deep cleaning the house, and cleaning up the forest of weeds that took over the yard while the house was vacant.
+                I have a chandelier makeover I want to share but don't want to post that until I can get a picture of it hung in the dining room, but I'm not going to hang it until I refinish the ceiling.
+                My first project is taking down the current crown moulding in the living room and dining room and putting up a beadboard ceiling and new crown moulding!
+              </p>
+              <p>
+                In the meantime, here is the desk I refinished for my office! I used Annie Sloan chalk paint in Paris Grey and finished it with Annie Sloan dark wax. Then I distressed it and changed the knobs. I love how it turned out!
+                I almost didn't refinish it but then after staring at it for a while, I decided it wasn't quite the look I wanted. Here is the before picture:
+              </p>
+              <img src="../assets/img/desk_before.jpg">
+              <p>
+                Here is after:
+              </p>
+              <img src="../assets/img/desk_after1.jpg">
+              <br>
+              <img src="../assets/img/desk_after2.jpg">
+              <div class="post-list">
+                  {% for post in site.posts %}
+                      {% if post.project == null %}
+                  <ul>
+                      <li>
+                          <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                          <p>{{ post.excerpt }}</p>
+                          <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                      </li>
+                  </ul>
+                      {% endif %}
+                  {% endfor %}
+                </div>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+</body>
+</html>
