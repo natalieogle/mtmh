@@ -34,11 +34,13 @@ It was listed for $90 but I ended up paying the guy $70. The size and number of 
 This project only cost me around $150 to complete ($70 for the chandelier; the rest for paint and crystals), and I got exactly what I wanted!
 
 Materials/Tools I Used:
-* Dish soap
-* Rust-Oleum Universal Bonding Primer Spray Paint
-* Rust-Oleum Universal Metallic Spray Paint & Primer - Oil Rubbed Bronze
-* Roper Whitney hand punch
-* Crystal garland and crystal teardrop pendants (see details below)
+<ul>
+  <li>Dish soap</li>
+  <li>Rust-Oleum Universal Bonding Primer Spray Paint</li>
+  <li>Rust-Oleum Universal Metallic Spray Paint & Primer - Oil Rubbed Bronze</li>
+  <li>Roper Whitney hand punch</li>
+  <li>Crystal garland and crystal teardrop pendants (see details below)</li>
+</ul>
 
 Initially I wanted to drill holes for hanging crystals using a drill but my dad suggested I use his Roper Whitney hand punch, which made it really easy. It's basically just a hole punch that can punch holes in metal. Also, I initially bought both my crystal garland and pendants from Amazon. The crystal pendants are actually glass but are still faceted and very sparkly. However, the crystals on the garland (they were also glass) were not faceted so they didn't quite sparkle enough for my liking. I found some faceted ones <a href="http://crystalplace.com/" target="_blank">here</a> (make sure you get the garland with the tiny key rings between each crystal to make hanging easy). They were a bit more expensive than the non-sparkly ones from Amazon, but SO worth it. I also found tiny crystal garlands like this at JoAnn Fabrics but I haven't priced them against the ones I bought.
 

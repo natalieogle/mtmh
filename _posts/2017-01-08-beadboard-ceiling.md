@@ -37,22 +37,24 @@ And here is the after! After patching the seams and putting up several coats of 
 As I previously stated, this project was annoying and pretty time consuming. If my dad didn't have some of these tools, I probably wouldn't have been able to swing it!
 
 Materials/Tools I Used:
-* Crappy beadboard planks (I recommend using non-crappy planks)
-* Miter saw
-* Coping saw (to cut around light fixtures)
-* Air compressor and nail gun (my air compressor came with a nail gun!)
-* Brad nails (I used 2'')
-* A construction square (to make sure you start your planks at the right angle)
-* Wood filler (I used Elmer's...but there may be a better brand out there)
-* Paintable caulk
-* Medium grit sandpaper
-* Loads of paint (I used semi-gloss for my sheen)
-* Paint sprayer (I used a Wagner Power Painter Plus) for the first paint coat on the planks if they aren't already primed
-* Paint brushes & roller
-* A person to help hold up the planks while installing
-* Time...lots of it
-* Patience
-* A good cry now and then
+<ul>
+  <li>Crappy beadboard planks (I recommend using non-crappy planks)</li>
+  <li>Miter saw</li>
+  <li>Coping saw (to cut around light fixtures)</li>
+  <li>Air compressor and nail gun (my air compressor came with a nail gun!)</li>
+  <li>Brad nails (I used 2'')</li>
+  <li>A construction square (to make sure you start your planks at the right angle)</li>
+  <li>Wood filler (I used Elmer's...but there may be a better brand out there)</li>
+  <li>Paintable caulk</li>
+  <li>Medium grit sandpaper</li>
+  <li>Loads of paint (I used semi-gloss for my sheen)</li>
+  <li>Paint sprayer (I used a Wagner Power Painter Plus) for the first paint coat on the planks if they aren't already primed</li>
+  <li>Paint brushes & roller</li>
+  <li>A person to help hold up the planks while installing</li>
+  <li>Time...lots of it</li>
+  <li>Patience</li>
+  <li>A good cry now and then</li>
+</ul>
 
 The first thing I did for this project was set up a paint booth in my enclosed back porch so I could spray the planks with my Wagner spray painter to make the final painting after installation easier. If the weather was nice, I could have done this outside, but it was really rainy when I started this project. I didn't have any saw horses so I just set up the boxes I had lying around from my recent move to lie my planks on. It took me about two painting sessions per room to get all the planks painted.
 
