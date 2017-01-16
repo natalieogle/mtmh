@@ -78,4 +78,6 @@ To my lovely chandelier!
 
 Excuse the two-toned wall in the last picture (soon to be board and batten) and the lack of ANY kind of decor besides curtains. Definitely not to the decorating stage yet!
 
+The last thing I did for the chandelier was install a dimmer so I can pick how bright the dining room is. Without the dimmer, it was too bright.
+
 Thanks for reading!  :-)
