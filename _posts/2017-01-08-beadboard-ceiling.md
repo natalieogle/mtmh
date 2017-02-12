@@ -56,7 +56,7 @@ Materials/Tools I Used:
   <li>A good cry now and then</li>
 </ul>
 
-The first thing I did for this project was set up a paint booth in my enclosed back porch so I could spray the planks with my Wagner spray painter to make the final painting after installation easier. If the weather was nice, I could have done this outside, but it was really rainy when I started this project. I didn't have any saw horses so I just set up the boxes I had lying around from my recent move to lie my planks on. It took me about two painting sessions per room to get all the planks painted.
+The first thing I did for this project was set up a paint booth in my enclosed back porch so I could spray the planks with my Wagner paint sprayer to make the final painting after installation easier. If the weather was nice, I could have done this outside, but it was really rainy when I started this project. I didn't have any saw horses so I just set up the boxes I had lying around from my recent move to lie my planks on. It took me about two painting sessions per room to get all the planks painted.
 
 ![Beadboard Ceiling Makeover - Spray Painting](../assets/img/beadboard_ceiling/beadboard_process1.jpg)
 
